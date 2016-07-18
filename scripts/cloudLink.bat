@@ -1,0 +1,1 @@
+server\scripts\cloud-scripts\zkcli.bat -zkhost 127.0.0.1:9983 -cmd linkconfig -collection COLLECTION_NAME -confname CONFIGURATION_NAME
